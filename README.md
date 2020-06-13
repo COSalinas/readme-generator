@@ -1,10 +1,10 @@
 
-  # Good Readme Generator
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/COSalinas/good-readme-generator)
+  # README generator
+  
   
   ## Description
   
-  This project creates a readme for any projects that need a good readme.
+  This project allows the client to create a README.md for any projects they might have.
   
   ## Table of Contents 
   
@@ -25,20 +25,16 @@
   To install necessary dependencies, run the following command:
   
   ```
-  npm i 
+  npm 1
   ```
   
   ## Usage
   
-  N/A
-  
-  ## License
-  
-  This project is licensed under the MIT license.
-    
+  This repo is for generating readme.md files.
+
   ## Contributing
   
-  N/A
+  undefined
   
   ## Tests
   
